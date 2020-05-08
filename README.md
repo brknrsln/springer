@@ -7,3 +7,5 @@ https://www.springernature.com/gp/librarians/news-events/all-news-articles/indus
 You can filter and copy donwload links saved as links.txt
 If you saved another name file you should change links.txt file name in line 13
 The python script and links' files must be same directory
+
+Not: the script working on python3 becaus of urllib.request module
